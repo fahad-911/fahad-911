@@ -1,13 +1,11 @@
 #EXTM3U
-#:-1,AR-MBC_2
+#EXTINF:-1,AR-MBC_2
 http://aaa000.xyz:8000/forinone/f5vr145vr41v/1947
 #EXTINF:-1,AR-MBC2_HD
-http://aaa000.xyz:8000/forinone/f5vr145vr41v/4299
+http://aaa000.xyz:8000/forinone/f5vr145vr41v/429
 #EXTINF:-1,AR-MBC-MAX
 http://aaa000.xyz:8000/forinone/f5vr145vr41v/26
 #EXTINF:-1,AR-MBC_MAX-HD
-http://aaa000.xyz:8000/forinone/f5vr145vr41v/4305
-#EXTINF:-1,AR-MBC-Action
 http://aaa000.xyz:8000/forinone/f5vr145vr41v/25
 #EXTINF:-1,AR-MBC_Action-HD
 http://aaa000.xyz:8000/forinone/f5vr145vr41v/4302
@@ -27,3 +25,8 @@ http://aaa000.xyz:8000/forinone/f5vr145vr41v/2265
 http://aaa000.xyz:8000/forinone/f5vr145vr41v/3828
 #EXTINF:-1,AR-BeIn_Movies3_HD
 http://aaa000.xyz:8000/forinone/f5vr145vr41v/3829
+#EXTINF:-1,AR-BeIn_Movies4_HD
+http://aaa000.xyz:8000/forinone/f5vr145vr41v/3830
+#EXTINF:-1,AR-AlAoulaInterHD
+http://aaa000.xyz:8000/forinone/f5vr145vr41v/7557
+#EXTINF:-1,AR-ALAoulaInter
